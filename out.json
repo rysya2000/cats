@@ -1,0 +1,178 @@
+{
+    "Arabian Peninsula": [
+        {
+            "breed": "Arabian Mau",
+            "coat": "Short",
+            "origin": "Natural",
+            "pattern": ""
+        }
+    ],
+    "Australia": [
+        {
+            "breed": "Australian Mist",
+            "coat": "Short",
+            "origin": "Crossbreed",
+            "pattern": "Spotted and Classic tabby"
+        }
+    ],
+    "Brazil": [
+        {
+            "breed": "Brazilian Shorthair",
+            "coat": "Short",
+            "origin": "Natural",
+            "pattern": "All"
+        }
+    ],
+    "Burma and Thailand": [
+        {
+            "breed": "Burmese",
+            "coat": "Short",
+            "origin": "Natural",
+            "pattern": "Solid"
+        }
+    ],
+    "Ethiopia": [
+        {
+            "breed": "Abyssinian",
+            "coat": "Short",
+            "origin": "Natural/Standard",
+            "pattern": "Ticked"
+        }
+    ],
+    "France": [
+        {
+            "breed": "Chausie",
+            "coat": "Short",
+            "origin": "Hybrid",
+            "pattern": "Ticked"
+        },
+        {
+            "breed": "Chartreux",
+            "coat": "Short",
+            "origin": "Natural",
+            "pattern": "Solid"
+        }
+    ],
+    "Greece": [
+        {
+            "breed": "Aegean",
+            "coat": "Semi-long",
+            "origin": "Natural/Standard",
+            "pattern": "Bi- or tri-colored"
+        }
+    ],
+    "United Kingdom": [
+        {
+            "breed": "Burmilla",
+            "coat": "Short/Long",
+            "origin": "Crossbreed",
+            "pattern": ""
+        },
+        {
+            "breed": "British Longhair",
+            "coat": "Long",
+            "origin": "",
+            "pattern": ""
+        },
+        {
+            "breed": "British Shorthair",
+            "coat": "Short",
+            "origin": "Natural",
+            "pattern": "All"
+        },
+        {
+            "breed": "Asian Semi-longhair",
+            "coat": "Semi-long",
+            "origin": "Crossbreed",
+            "pattern": "Solid"
+        },
+        {
+            "breed": "British Semi-longhair",
+            "coat": "Medium",
+            "origin": "",
+            "pattern": "All"
+        }
+    ],
+    "United States": [
+        {
+            "breed": "Bambino",
+            "coat": "Hairless/Furry down",
+            "origin": "Crossbreed",
+            "pattern": ""
+        },
+        {
+            "breed": "American Curl",
+            "coat": "Short/Long",
+            "origin": "Mutation",
+            "pattern": "All"
+        },
+        {
+            "breed": "American Bobtail",
+            "coat": "Short/Long",
+            "origin": "Mutation",
+            "pattern": "All"
+        },
+        {
+            "breed": "American Wirehair",
+            "coat": "Rex",
+            "origin": "Mutation",
+            "pattern": "All but colorpoint"
+        },
+        {
+            "breed": "Chantilly-Tiffany",
+            "coat": "",
+            "origin": "",
+            "pattern": ""
+        },
+        {
+            "breed": "American Shorthair",
+            "coat": "Short",
+            "origin": "Natural",
+            "pattern": "All but colorpoint"
+        },
+        {
+            "breed": "California Spangled",
+            "coat": "Short",
+            "origin": "Crossbreed",
+            "pattern": "Spotted"
+        }
+    ],
+    "developed in France (founding stock from Burma)": [
+        {
+            "breed": "Birman",
+            "coat": "Semi Long",
+            "origin": "Natural",
+            "pattern": "Colorpoint"
+        }
+    ],
+    "developed in the United Kingdom (founding stock from Asia)": [
+        {
+            "breed": "Asian",
+            "coat": "Short",
+            "origin": "",
+            "pattern": "Evenly solid"
+        }
+    ],
+    "developed in the United States (founding stock from Asia)": [
+        {
+            "breed": "Bengal",
+            "coat": "Short",
+            "origin": "Hybrid",
+            "pattern": "Spotted/Marbled"
+        },
+        {
+            "breed": "Bombay",
+            "coat": "Short",
+            "origin": "Crossbred",
+            "pattern": "Solid"
+        }
+    ],
+    "developed in the United States (founding stock from Thailand)": [
+        {
+            "breed": "Balinese",
+            "coat": "Long",
+            "origin": "Crossbreed",
+            "pattern": "Colorpoint"
+        }
+    ]
+}
